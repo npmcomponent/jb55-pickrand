@@ -3,7 +3,7 @@
   "repo": "jb55/pickrand",
   "description": "Pick a random element from an array",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["random", "pick", "array"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
