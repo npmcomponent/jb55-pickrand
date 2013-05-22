@@ -9,7 +9,16 @@
 
 ## API
 
-   
+```javascript
+var pickrand = require('pickrand') 
+var x = pickrand(["bill", "john", "jake"]);
+
+// x can be "bill", "john", or "jake"
+
+var x = pickrand([])
+
+// x is null
+```
 
 ## License
 
