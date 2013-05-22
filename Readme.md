@@ -5,7 +5,13 @@
 
 ## Installation
 
+### Component
+
     $ component install jb55/pickrand
+
+### Node
+
+    $ npm install pickrand
 
 ## API
 
