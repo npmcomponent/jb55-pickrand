@@ -1,16 +1,13 @@
 {
-  "name": "pickrand",
-  "description": "pickrand",
+  "name": "jb55-pickrand",
+  "description": "Pick a random element from an array",
   "version": "0.0.1",
-  "repository": {
-    "url": "git://github.com/jb55/pickrand.git"
-  },
+  "keywords": [
+    "random",
+    "pick",
+    "array"
+  ],
   "main": "index.js",
-  "scripts": {
-    "test": "tap test/*.js"
-  },
   "dependencies": {},
-  "devDependencies": {
-    "tap": "~0.2.5"
-  }
+  "license": "MIT"
 }
